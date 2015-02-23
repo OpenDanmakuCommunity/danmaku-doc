@@ -13,4 +13,5 @@ Collected for research purpose, since older versions may be deleted in the futur
 | bilibili-2014.swf | https://static-s.bilibili.com/play.swf                                  | 2014-07-25 22:03:16   |                                         |
 | acfun-2014.swf    | http://static.acfun.tv/player/sslhomura/AcNewPlayer.swf?ver=20140723v10 | 2014-07-23 18:28:31   |                                         |
 | acfun-2014.js     | https://ssl.acfun.tv/script/player-madoka.min.js?date=201405231607      | 2014-07-23 12:06:55   |                                         |
+| acfun-2015.swf    | https://ssl.acfun.tv/flash/player-view-homura.swf                       | 2015-01-17 16:06:25   |                                         |
 
